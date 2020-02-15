@@ -16,7 +16,7 @@
     "react": "^16.8.6",
     "react-native": "^0.60.6",
     "react-native-image-view": "^2.1.8",
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "@babel/core": "7.6.4",
